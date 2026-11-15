@@ -1,0 +1,17 @@
+/runs/
+/logs/
+/records/
+/research/
+*.log
+*.jsonl
+.env
+.env.*
+/benchmark.md
+/goal.txt
+/context.txt
+/evidence.txt
+/decisions.txt
+/对标记录.md
+/调研记录.md
+/协作小结.md
+*.status.md
